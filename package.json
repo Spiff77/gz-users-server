@@ -1,0 +1,14 @@
+{
+  "name": "guangzhou-students-server",
+  "version": "1.0.0",
+  "description": "Just a basic json-server featuring Guangzhou students. don't forget to activate network delay in your browser to simulate some lantency",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx json-server --delay 1000 guangzhou_students.json"
+  },
+  "author": "Thomas Lhomme",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "0.17.0"
+  }
+}

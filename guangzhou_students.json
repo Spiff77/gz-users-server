@@ -1,0 +1,220 @@
+{
+  "students": [
+    {
+      "name": "Jeanette Jian",
+      "htmlCss": 1,
+      "js": 2,
+      "backEnd": 2,
+      "sql": 3,
+      "usedFrontEndFramework": false,
+      "group": 1
+    },
+    {
+      "name": "Gary J L LI",
+      "htmlCss": 2,
+      "js": 3,
+      "backEnd": 3,
+      "sql": 4,
+      "usedFrontEndFramework": true,
+      "group": 1
+    },
+    {
+      "name": "Kaixi Ji",
+      "htmlCss": 1,
+      "js": 1,
+      "backEnd": 0,
+      "sql": 2,
+      "usedFrontEndFramework": false,
+      "group": 1
+    },
+    {
+      "name": "Tony P Y Gao",
+      "htmlCss": 0,
+      "js": 0,
+      "backEnd": 2,
+      "sql": 3,
+      "usedFrontEndFramework": false,
+      "group": 1
+    },
+    {
+      "name": "Robert Xiao",
+      "htmlCss": 1,
+      "js": 0,
+      "backEnd": 0,
+      "sql": 4,
+      "usedFrontEndFramework": false,
+      "group": 2
+    },
+    {
+      "name": "Hazel Z Q Lin",
+      "htmlCss": 2,
+      "js": 2,
+      "backEnd": 1,
+      "sql": 3,
+      "usedFrontEndFramework": false,
+      "group": 2
+    },
+    {
+      "name": "Jaylen Shen",
+      "htmlCss": 2,
+      "js": 1,
+      "backEnd": 2,
+      "sql": 2,
+      "usedFrontEndFramework": true,
+      "group": 2
+    },
+    {
+      "name": "Oliver Y H Tian",
+      "htmlCss": 2,
+      "js": 3,
+      "backEnd": 4,
+      "sql": 3,
+      "usedFrontEndFramework": true,
+      "group": 2
+    },
+    {
+      "name": "Jamie Liu",
+      "htmlCss": 1,
+      "js": 1,
+      "backEnd": 3,
+      "sql": 2,
+      "usedFrontEndFramework": false,
+      "group": 3
+    },
+    {
+      "name": "Joseph Qiu",
+      "htmlCss": 2,
+      "js": 1,
+      "backEnd": 2,
+      "sql": 4,
+      "usedFrontEndFramework": false,
+      "group": 3
+    },
+    {
+      "name": "Chen Kai Chuang",
+      "htmlCss": 1,
+      "js": 4,
+      "backEnd": 1,
+      "sql": 1,
+      "usedFrontEndFramework": true,
+      "group": 3
+    },
+    {
+      "name": "Yujia Yang",
+      "htmlCss": 0,
+      "js": 0,
+      "backEnd": 0,
+      "sql": 2,
+      "usedFrontEndFramework": false,
+      "group": 3
+    },
+    {
+      "name": "Robben Min",
+      "htmlCss": 3,
+      "js": 2,
+      "backEnd": 1,
+      "sql": 2,
+      "usedFrontEndFramework": true,
+      "group": 4
+    },
+    {
+      "name": "Kiki G Z QI",
+      "htmlCss": 1,
+      "js": 1,
+      "backEnd": 3,
+      "sql": 2,
+      "usedFrontEndFramework": false,
+      "group": 4
+    },
+    {
+      "name": "Cary J N Huang",
+      "htmlCss": 1,
+      "js": 0,
+      "backEnd": 0,
+      "sql": 2,
+      "usedFrontEndFramework": false,
+      "group": 4
+    },
+    {
+      "name": "Margaret Ma",
+      "htmlCss": 2,
+      "js": 1,
+      "backEnd": 3,
+      "sql": 3,
+      "usedFrontEndFramework": true,
+      "group": 4
+    },
+    {
+      "name": "David Song",
+      "htmlCss": 1,
+      "js": 2,
+      "backEnd": 3,
+      "sql": 3,
+      "usedFrontEndFramework": true,
+      "group": 5
+    },
+    {
+      "name": "Zihui Ouyang",
+      "htmlCss": 1,
+      "js": 1,
+      "backEnd": 1,
+      "sql": 1,
+      "usedFrontEndFramework": false,
+      "group": 5
+    },
+    {
+      "name": "Jack Jin",
+      "htmlCss": 1,
+      "js": 0,
+      "backEnd": 3,
+      "sql": 3,
+      "usedFrontEndFramework": true,
+      "group": 5
+    },
+    {
+      "name": "Q Qin",
+      "htmlCss": 3,
+      "js": 1,
+      "backEnd": 4,
+      "sql": 3,
+      "usedFrontEndFramework": true,
+      "group": 5
+    },
+    {
+      "name": "Kaiyi Sun",
+      "htmlCss": 2,
+      "js": 2,
+      "backEnd": 0,
+      "sql": 3,
+      "usedFrontEndFramework": false,
+      "group": 6
+    },
+    {
+      "name": "Morning J Peng",
+      "htmlCss": 2,
+      "js": 2,
+      "backEnd": 4,
+      "sql": 3,
+      "usedFrontEndFramework": false,
+      "group": 6
+    },
+    {
+      "name": "Xinyi Zhao",
+      "htmlCss": 1,
+      "js": 1,
+      "backEnd": 3,
+      "sql": 2,
+      "usedFrontEndFramework": true,
+      "group": 6
+    },
+    {
+      "name": "Boning Shi",
+      "htmlCss": 1,
+      "js": 0,
+      "backEnd": 0,
+      "sql": 3,
+      "usedFrontEndFramework": false,
+      "group": 6
+    }
+  ]
+}
